@@ -6,7 +6,6 @@
     <session-factory>
         <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
         <property name="hibernate.connection.url">jdbc:postgresql://aws-1-eu-west-1.pooler.supabase.com:5432/postgres?currentSchema=ad&amp;sslmode=require&amp;connectTimeout=10&amp;socketTimeout=30</property>
-        <property name="hibernate.connection.username">postgres.ylhthxjqhdvdqvbgovdw</property>
 
         <property name="hibernate.show_sql">true</property>
         <property name="hibernate.format_sql">true</property>
